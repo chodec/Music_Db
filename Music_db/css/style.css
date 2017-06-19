@@ -1,0 +1,53 @@
+body{
+    background: url(../img/def.jpg);
+    background-size: cover;
+    background-repeat: none;
+}
+.container h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.container h2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+} 
+ hr{
+     width:50px;
+ }
+ .about{
+     margin-top: 150px;
+     background-color: rgba(12, 4, 4, 0.6);
+     
+ }
+ img{
+     background-size: cover;
+     max-widht: 100px;
+     max-height: 100px;
+     
+ }
+ .boxik{
+       background-color: rgba(12, 4, 4, 0.6);
+       padding:30px;
+       max-width: 25%;
+       color: white;
+       font-weight:bold;
+ }
+ .boxik a {
+     color: white;
+ }
+ .glyphicon-home{
+     font-size: 30px;
+     color: white;
+     position: fixed;
+     top: 350px;
+     right: 10px;
+     margin: 0px;
+     padding: 0px;
+
+}
+.glyphicon-home:hover{
+        color:#3399ff;
+
+}
